@@ -1,11 +1,11 @@
-#<div id="header">
+<div id="header">
 <img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="40"/>
 
 ### :raising_hand_woman:
 :woman_office_worker: About Me :
 ###	:heavy_check_mark:
 ###	:ru:
-I am a data analyst from Russia.
+I am a data analyst from Russia. :ru:
 - :telescope: During this period, I am undergoing training
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 

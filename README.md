@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<img src="[https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN](https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN)" width="400"/>&nbsp;
-</div>
+<img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="40"/>
 
 ### :raising_hand_woman:
 :woman_office_worker: About Me :

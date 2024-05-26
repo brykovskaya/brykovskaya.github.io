@@ -1,4 +1,4 @@
-#<div id="header" align="center">
+#<div id="header">
 <img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="40"/>
 
 ### :raising_hand_woman:
@@ -7,11 +7,6 @@
 ###	:ru:
 I am a data analyst from Russia.
 - :telescope: During this period, I am undergoing training
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: 
-
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 
 

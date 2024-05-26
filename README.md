@@ -1,14 +1,10 @@
-<div id="badges">
-</div>
-</div>
 
-<h1>
   hey there
  
 ### :raising_hand_woman: I'm Natalia Brykovskaya, a data analyst from Russia.
 
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
-<div id="header" align="center">
+<div 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8xMnlvazRsZ2U2NGxtZjZvMm8xbjhiaWJrNmYwZXhhajRkOHMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vSlCKNlyvvkZp8PCg/giphy.gif" width="60px"/>
   
 <img src="https://komarev.com/ghpvc/?username=brykovskaya&style=flat-square&color=blue" alt=""/>
@@ -31,7 +27,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brykovskaya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brykovskaya)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :

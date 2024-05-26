@@ -12,7 +12,7 @@ I am a data analyst from Russia.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [telegram messenger](https://t.me/brykovskaya))
+- :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya))
 
 
 <img src="https://komarev.com/ghpvc/?brykovskaya=your-github-brykovskaya&style=flat-square&color=blue" alt=""/>

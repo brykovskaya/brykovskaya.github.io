@@ -1,8 +1,10 @@
+👋 Hi!
 
-  hey there
- 
-### :raising_hand_woman: I'm Natalia Brykovskaya, a data analyst from Russia.
+After 20 years of professional work in the financial sector as an accountant-consultant, I decided to try myself in new directions and, in particular, improve myself in data analytics and programming.
 
+I don't know how this experiment will end, but it looks very interesting 😜
+
+At the moment I am learning Python for Data Analysis, SQL and tools for BI-analytics.
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 <div 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8xMnlvazRsZ2U2NGxtZjZvMm8xbjhiaWJrNmYwZXhhajRkOHMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vSlCKNlyvvkZp8PCg/giphy.gif" width="60px"/>

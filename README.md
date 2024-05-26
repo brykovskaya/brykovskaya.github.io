@@ -1,4 +1,4 @@
-<div id="header" align="center">
+#<div id="header" align="center">
 <img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="40"/>
 
 ### :raising_hand_woman:
@@ -10,9 +10,9 @@ I am a data analyst from Russia.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: 
 
-- :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya))
+- :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 
 
 <img src="https://komarev.com/ghpvc/?brykovskaya=your-github-brykovskaya&style=flat-square&color=blue" alt=""/>

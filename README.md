@@ -1,7 +1,7 @@
-### :woman_technologist: About Me :
+### :woman_office_worker: About Me :
 ###	:heavy_check_mark:
 ###	:ru:
-###	:mosque:
+
 
 
 <div id="header" align="center">

@@ -23,7 +23,7 @@
 ---
 
 ### :fire: My Stats :
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brykovskaya&theme=algolia)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brykovskaya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brykovskaya)](https://github.com/anuraghazra/github-readme-stats)

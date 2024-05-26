@@ -7,7 +7,7 @@
 ###	:ru:
 I am a data analyst  <iframe src="https://giphy.com/embed/8gNQZ9IpkcdiAjfOgN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN">via GIPHY</a></p> width="30"> from Russia.
 
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/8gNQZ9IpkcdiAjfOgN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN">via GIPHY</a></p>
 
 <img src="https://komarev.com/ghpvc/?brykovskaya=your-github-brykovskaya&style=flat-square&color=blue" alt=""/>
 

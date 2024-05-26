@@ -18,8 +18,15 @@ About Me : I am a data analyst from Russia. :ru:
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-brykovskaya
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brykovskaya&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brykovskaya)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :

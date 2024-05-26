@@ -1,5 +1,6 @@
 ### :woman_technologist: About Me :
-
+###	:heavy_check_mark:
+###	:ru:
 
 
 <div id="header" align="center">

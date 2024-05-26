@@ -10,6 +10,7 @@ About Me : I am a data analyst from Russia. :ru:
 
 <img src="https://komarev.com/ghpvc/?brykovskaya=your-github-brykovskaya&style=flat-square&color=blue" alt=""/>
 ###	:heavy_check_mark:
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
@@ -17,3 +18,8 @@ About Me : I am a data analyst from Russia. :ru:
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-brykovskaya
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brykovskaya&theme=dark&background=000000)](https://git.io/streak-stats)

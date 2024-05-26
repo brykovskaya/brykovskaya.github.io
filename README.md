@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyZHQwdDE4YjRqZGhheDVod3B4Zm85ajgzcG80eDQ3M3FiaGhzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f67U9Xc53i4ViUs5T2/giphy-downsized-large.gif)" width="600" height="300"/>
 </div>
 ### :raising_hand_woman: Hello, It's Natalia Brykovskaya.
 :woman_office_worker: 

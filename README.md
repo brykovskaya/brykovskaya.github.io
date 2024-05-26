@@ -1,4 +1,5 @@
-### :woman_office_worker: About Me :
+### :raising_hand_woman:
+:woman_office_worker: About Me :
 ###	:heavy_check_mark:
 ###	:ru:
 

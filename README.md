@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="[https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN](https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN)" width="400"/>&nbsp;
+</div>
+
 ### :raising_hand_woman:
 :woman_office_worker: About Me :
 ###	:heavy_check_mark:
@@ -5,9 +9,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="400"/>&nbsp;
-</div>
+
 <img src="https://komarev.com/ghpvc/?brykovskaya=your-github-brykovskaya&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :

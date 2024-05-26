@@ -1,8 +1,9 @@
-<div id="header">
-<img src="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN" width="40"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ### :raising_hand_woman: Hello, It's Natalia Brykovskaya.
-:woman_office_worker: About Me :
-I am a data analyst from Russia. :ru:
+:woman_office_worker: 
+About Me : I am a data analyst from Russia. :ru:
 - :telescope: During this period, I am undergoing training
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 

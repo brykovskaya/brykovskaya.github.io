@@ -5,7 +5,7 @@
 :woman_office_worker: About Me :
 ###	:heavy_check_mark:
 ###	:ru:
-I am a data analyst  <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](http://www.lindavanbruggen.nl/)" width="30"> from Russia.
+I am a data analyst  <iframe src="https://giphy.com/embed/8gNQZ9IpkcdiAjfOgN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/illustration-marketing-data-8gNQZ9IpkcdiAjfOgN">via GIPHY</a></p> width="30"> from Russia.
 
 
 

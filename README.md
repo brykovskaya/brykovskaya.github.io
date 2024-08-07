@@ -5,7 +5,9 @@ After 20 years of professional work in the financial sector as an accountant-con
 I don't know how this experiment will end, but it looks very interesting 😜
 
 At the moment I am learning Python for Data Analysis, SQL and tools for BI-analytics. 
-I'm open to job offers right now.
+
+I'm open to job offers right now. [My resume](https://hh.ru/resume/4dc10b22ff0d6f3e120039ed1f6c443436716f)
+
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 <div 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8xMnlvazRsZ2U2NGxtZjZvMm8xbjhiaWJrNmYwZXhhajRkOHMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vSlCKNlyvvkZp8PCg/giphy.gif" width="60px"/>

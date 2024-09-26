@@ -6,7 +6,7 @@ I don't know how this experiment will end, but it looks very interesting 😜
 
 At the moment I am learning Python for Data Analysis, SQL and tools for BI-analytics. 
 
-I'm open to job offers right now. [My resume](https://hh.ru/resume/4dc10b22ff0d6f3e120039ed1f6c443436716f)
+I'm open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255ff0dbc02380039ed1f507251523270)
 
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 <div 

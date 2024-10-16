@@ -25,6 +25,7 @@ I'm open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255ff0db
 <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
+ <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 </div>
 
 ---

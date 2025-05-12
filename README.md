@@ -4,9 +4,9 @@ After 20 years of professional work in the financial sector as an accountant-con
 
 I don't know how this experiment will end, but it looks very interesting 😜
 
-At the moment I am learning Python for Data Analysis, SQL and tools for BI-analytics. 
+At the moment I am learning Python for Data Analysis, SQL and tools for BI-analytics and Big Data tools. 
 
-I'm open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255ff0dbc02380039ed1f507251523270)
+I'm NOT open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255ff0dbc02380039ed1f507251523270)
 
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 <div 
@@ -33,6 +33,7 @@ I'm open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255ff0db
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="50" height="50"/>&nbsp;
+ <img src="https://images.icon-icons.com/2699/PNG/512/greenplum_logo_icon_171038.png" title="greenplum" alt="greenplum" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="50" height="50"/>&nbsp;
 </div>

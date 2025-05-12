@@ -34,6 +34,7 @@ I'm NOT open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255f
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="50" height="50"/>&nbsp;
  <img src="https://images.icon-icons.com/2699/PNG/512/greenplum_logo_icon_171038.png" title="greenplum" alt="greenplum" height="50"/>&nbsp;
+ <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170561.png" title="apache_spark" alt="apache_spark" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="50" height="50"/>&nbsp;
 </div>

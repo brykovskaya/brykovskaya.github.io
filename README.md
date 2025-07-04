@@ -28,7 +28,7 @@ I'm NOT open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255f
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="stackoverflow" alt="stackoverflow" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
+
  <img src="https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
@@ -36,9 +36,10 @@ I'm NOT open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255f
  <img src="https://images.icon-icons.com/2699/PNG/512/greenplum_logo_icon_171038.png" title="greenplum" alt="greenplum" height="50"/>&nbsp;
  <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170561.png" title="apache_spark" alt="apache_spark" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
-<img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="50" height="50"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" height="50"/>&nbsp;
+
  <img src= "https://github.com/brykovskaya/technologies/blob/main/BI_ANALYSIS/images/powerBI.jpg"  title="powerBI" alt="powerBI" width="100" />&nbsp; 
-<img src= "https://github.com/brykovskaya/technologies/blob/main/BI_ANALYSIS/images/tableau.webp"  title="tableau" alt="tableau" width="100" />&nbsp;
+<img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
  <img src= "https://github.com/brykovskaya/technologies/blob/main/BI_ANALYSIS/images/logo-dl-full.42bd99d4.svg"  title="datalens" alt="datalens" width="100" height="50"/>&nbsp;
 </div>
 

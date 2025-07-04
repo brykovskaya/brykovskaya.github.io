@@ -37,7 +37,7 @@ I'm NOT open to job offers right now. [My resume](https://hh.ru/resume/3e8e3255f
  <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170561.png" title="apache_spark" alt="apache_spark" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp;
 <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="50" height="50"/>&nbsp;
-
+<img src= "https://github.com/brykovskaya/technologies/blob/main/BI_ANALYSIS/images/powerBI.jpg"  title="powerBI" alt="powerBI" width="100" height="50"/>&nbsp;
  <img src= "https://github.com/brykovskaya/technologies/blob/main/BI_ANALYSIS/images/logo-dl-full.42bd99d4.svg"  title="datalens" alt="datalens" width="100" height="50"/>&nbsp;
 </div>
 

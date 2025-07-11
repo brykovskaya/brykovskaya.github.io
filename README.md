@@ -3,7 +3,7 @@
 [Resume:](https://hh.ru/resume/d90ed777ff0f08c7080039ed1f363259326d5)
 - :mailbox:How to reach me: [telegram messenger @brykovskaya](https://t.me/brykovskaya)
 <div 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8xMnlvazRsZ2U2NGxtZjZvMm8xbjhiaWJrNmYwZXhhajRkOHMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vSlCKNlyvvkZp8PCg/giphy.gif" width="60px"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8xMnlvazRsZ2U2NGxtZjZvMm8xbjhiaWJrNmYwZXhhajRkOHMyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vSlCKNlyvvkZp8PCg/giphy.gif" width="200px"/>
   
 <img src="https://komarev.com/ghpvc/?username=brykovskaya&style=flat-square&color=blue" alt=""/>
 
